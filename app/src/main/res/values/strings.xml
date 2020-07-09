@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Codemagic Android Example</string>
+    <string name="action_settings">Settings</string>
+</resources>
